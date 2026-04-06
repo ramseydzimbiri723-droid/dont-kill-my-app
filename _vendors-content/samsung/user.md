@@ -1,7 +1,7 @@
----
+Ramsey dzimbiri 
 manufacturer: samsung
 
----
+-mala--
 
 
 
